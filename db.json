@@ -1,0 +1,7 @@
+{
+    "tareas":[
+        {"id":1, "titulo": "Running", "terminada":false},
+        {"id":2, "titulo": "Programming", "terminada":true},
+        {"id":3, "titulo": "Swimming", "terminada":false}
+    ]
+}
